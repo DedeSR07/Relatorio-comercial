@@ -13,8 +13,6 @@ Desenvolvi este projeto durante um intensivão de Power BI no YouTube. O objetiv
 - Gráfico de barras por fabricante
 - Mapa com faturamento por cidade
 
-![Dashboard Comercial](imagens/dashboard.png)
-
 ---
 
 - 📊 Desenvolvido no Power BI Desktop  
