@@ -15,4 +15,9 @@ Desenvolvi este projeto durante um intensivão de Power BI no YouTube. O objetiv
 
 ---
 
+## 📸 Visualização
+- 📊 [Dashboard](imagens/dashboard.png)
+
+---
+
 - 📊 Desenvolvido no Power BI Desktop  
