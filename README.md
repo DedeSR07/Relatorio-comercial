@@ -20,8 +20,6 @@ Desenvolvi este projeto durante um intensivão de Power BI no YouTube. O objetiv
 
 ---
 
-- 📊 Desenvolvido no Power BI Desktop
-
 - ## 👨‍💻 Autor
 
 **David Souza Ribeiro**  
